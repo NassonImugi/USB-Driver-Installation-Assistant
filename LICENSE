@@ -1,0 +1,97 @@
+USB DRIVER INSTALLATION ASSISTANT
+CUSTOM SOFTWARE LICENSE
+Version 1.0
+
+Copyright (c) 2026 Nasson
+
+1. GRANT OF LICENSE
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to use,
+copy, modify, and redistribute the Software, subject to the conditions of
+this license.
+
+2. CONDITIONS
+
+a. The original copyright notice and this license must remain included with
+   the Software.
+
+b. The name "USB Driver Installation Assistant" may not be removed from
+   official or modified distributions without written permission from Nasson.
+
+c. Modified versions must clearly indicate that modifications have been made
+   and must not be represented as the official version of the Software.
+
+d. No person or organization may claim ownership of the original Software or
+   falsely represent themselves as the original author or developer.
+
+e. Redistribution of the Software must not imply that Nasson endorses,
+   sponsors, or supports the redistributing party or any modified version
+   without prior written permission.
+
+3. COMMERCIAL USE
+
+The Software may be used internally by individuals, organizations, schools,
+businesses, and other entities.
+
+Commercial redistribution, resale, bundling, or distribution of the Software
+as part of a paid product or service requires prior written permission from
+Nasson.
+
+4. DRIVER INSTALLATION DISCLAIMER
+
+This Software is provided as a tool for inspecting and installing Windows
+device drivers.
+
+The Software does not guarantee that any particular driver will be compatible
+with a device, Windows installation, hardware configuration, or third-party
+driver package.
+
+The user is responsible for selecting appropriate driver packages and
+confirming that the selected driver is suitable for their device.
+
+5. NO WARRANTY
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT.
+
+IN NO EVENT SHALL NASSON BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY,
+WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF,
+OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+6. THIRD-PARTY SOFTWARE
+
+This license applies only to the original code and materials created for
+USB Driver Installation Assistant.
+
+Third-party software, libraries, frameworks, drivers, trademarks, and other
+materials included with, used by, or referenced by the Software may be
+subject to their own licenses and terms.
+
+Nothing in this license grants rights to third-party software or trademarks.
+
+7. TRADEMARKS
+
+"USB Driver Installation Assistant" and associated project branding remain
+the property of Nasson.
+
+This license does not grant permission to use the project's name, logo,
+icon, or other branding to imply official affiliation or endorsement.
+
+8. TERMINATION
+
+The rights granted by this license automatically terminate if the terms of
+this license are violated.
+
+Rights may be restored at the sole discretion of Nasson.
+
+9. ACCEPTANCE
+
+By using, copying, modifying, or redistributing the Software, you acknowledge
+that you have read and agree to the terms of this license.
+
+
+Copyright (c) 2026 Nasson
+All rights reserved except as expressly granted by this license.
